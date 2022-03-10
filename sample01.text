@@ -2,3 +2,5 @@ git 사용법
 
 
 개발 브랜치에서 수정한 내용
+
+git remote add orgin https://~~~~
